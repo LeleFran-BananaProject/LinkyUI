@@ -13,7 +13,7 @@
 ## Requisitos 🔧
 
 - **Base AOSP** 📂: Este sistema foi projetado para rodar em qualquer dispositivo com Android baseado no AOSP.
-- **Ferramentas de Desenvolvimento** 🖥️: Android Studio, SDK do Android, etc.
+- **Ferramentas de Desenvolvimento** 🖥️: Android Studio, SDK do Android e VSCode.
   
 ## Como Usar 📲
 Após a instalação, o sistema iniciará automaticamente com a nova interface Linky UI.
