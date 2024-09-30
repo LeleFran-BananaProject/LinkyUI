@@ -23,4 +23,4 @@ Após a instalação, o sistema iniciará automaticamente com a nova interface L
 Explore as opções de personalização nas configurações do sistema.
 
 ## Licença 🔐
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE)para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
