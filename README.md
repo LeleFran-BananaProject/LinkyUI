@@ -2,7 +2,7 @@
 
 **Linky UI** é um sistema baseado no AOSP (Android Open Source Project), desenvolvido para oferecer uma interface de usuário (UI) intuitiva e eficiente. O foco principal é proporcionar uma experiência de navegação simples e rápida, aproveitando o potencial do AOSP para criar um sistema leve e personalizável.
 
-<img src="3 Sem Título_20240930171916.png" alt="Alt Text" />
+<img src="9 Sem Título_20241005173124.png" alt="Alt Text" />
 
 
 ## Features ✨
