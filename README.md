@@ -15,6 +15,7 @@
 
 ## Requisitos 🔧
 
+- **ARM**🔑: ARM32 só disponível quando eu quiser.
 - **Base AOSP** 📂: Este sistema foi projetado para rodar em qualquer dispositivo com Android baseado no AOSP.
 - **Ferramentas de Desenvolvimento** 🖥️: Android Studio, SDK do Android e VSCode.
   
