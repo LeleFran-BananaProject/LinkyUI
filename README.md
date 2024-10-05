@@ -22,6 +22,8 @@
 ## Como Usar 📲
 Após a instalação, o sistema iniciará automaticamente com a nova interface Linky UI.
 Explore as opções de personalização nas configurações do sistema.
+<a href="https://github.com/LeleFran-BananaProject/LinkyUI/releases" target="_blank" style:"text-decoration: none;">Download</a>
+
 
 ## Licença 🔐
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
